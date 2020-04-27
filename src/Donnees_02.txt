@@ -1,0 +1,4 @@
+id;nom;prenom;age;adresse
+01;Benamer;Amer;25;Alger
+02;Benahmed;Ahmed;31;Setif
+03;Benali;Ali;29;Jijel
